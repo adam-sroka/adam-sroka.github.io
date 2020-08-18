@@ -1,6 +1,6 @@
 # Hey, Welcome to Adam Sroka's Website!
 
-![Profile Picture](https://i.kym-cdn.com/photos/images/original/000/431/312/67e.jpg)
+![Profile Picture](https://adam-sroka.github.io/img/profile_pic.jpg)
 
 ## About Me
 
