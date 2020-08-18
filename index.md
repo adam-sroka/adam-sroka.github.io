@@ -1,7 +1,6 @@
-# Hey! Welcome to Adam Sroka's Website!
-<!--
-Add image
--->
+# Hey, Welcome to Adam Sroka's Website!
+
+![Profile Picture](https://adam-sroka.github.io/img/profile_pic.jpg)
 
 ## About Me
 
