@@ -1,6 +1,6 @@
 ![Profile Picture](img/profile_pic.jpg)
 
-## About Me
+## About Me <img src="https://raw.githubusercontent.com/adam-sroka/adam-sroka.github.io/master/img/memoji_transparent.gif" width="30px">
 
 My name's Adam and I'm passionate about many things:
 - **Information and Computer Engineering**, which I'm currently studying in my third year at [Cambridge University](https://www.cam.ac.uk/)
