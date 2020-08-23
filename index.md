@@ -9,7 +9,7 @@ My name's Adam and I'm passionate about many things:
 - **Physical Education**, as I'm constanty trying to squeeze in some gym time, go for a run, squat more, or do some weird [movement stuff](https://youtu.be/W0Wr7HsylE0)
 - **Sustainability**, **Reading**, **Learning**, **Productivity**, and _all that jazz_
 
-
+<br>
 
 <p align="center">
   <i><b>I'd love to get in touch:<b>
