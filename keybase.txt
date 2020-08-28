@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/adamsroka
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://adamsroka.io
+  * I am adamsroka (https://keybase.io/adamsroka) on keybase.
+  * I have a public key ASCiG8e8djpGithQ1wIkIuVNghiFGh_YmlsxoceF2jLL5Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a21bc7bc763a468ad850d7022422e54d8218851a1fd89a5b31a1c785da32cbe50a",
+      "host": "keybase.io",
+      "kid": "0120a21bc7bc763a468ad850d7022422e54d8218851a1fd89a5b31a1c785da32cbe50a",
+      "uid": "91acecd40708892c153accabfd701b19",
+      "username": "adamsroka"
+    },
+    "merkle_root": {
+      "ctime": 1598605964,
+      "hash": "c3d3a5a23f07c6972e3f7583b9d123ac04dccb947728cea72c4c72341f2c37147be0ed089659f194772a9ebec95785bab2b8ae4376046a9457cbc3987869554d",
+      "hash_meta": "1ee111f40bd70061ab7e6bf8d7aa0192431bc6481f12c53265dbef113a529516",
+      "seqno": 17405475
+    },
+    "service": {
+      "entropy": "57l4t4jzxIUvwFX/tfQg+xsM",
+      "hostname": "adamsroka.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1598605977,
+  "expire_in": 504576000,
+  "prev": "8f9548815a6774b23ddd609be38b2e525965ca8967d96cb421ad9f2279e62768",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgohvHvHY6RorYUNcCJCLlTYIYhRof2JpbMaHHhdoyy+UKp3BheWxvYWTESpcCBsQgj5VIgVpndLI93WCb44suUlllyoln2Wy0Ia2fInnmJ2jEIBMBeWsoCgCrEVkldGewD4xOxsj58OEXJaUR64JrucZFAgHCo3NpZ8RAfVg91cJXYDUYxDCw+VRSdqyZzBOeeDOg8f6MrSCi3izj4WOYfFaEi8TK+y13nLF9Iu+WzC5MjuW63Ap6fvF5AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIH143XQzsB1Bifcogq70RSLL1ugZRQMPVMUrulxmBHx9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/adamsroka
+
+==================================================================
