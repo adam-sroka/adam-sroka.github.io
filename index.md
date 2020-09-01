@@ -12,7 +12,7 @@ My name's Adam and I'm passionate about many things:
 <br>
 
 <p align="center">
-  <i><b>I'd love to get in touch:<b>
+  <b>I'd love to get in touch:<b>
     <p align="center">
       <a href="https://www.linkedin.com/in/adam-sroka/" alt="Linkedin"><img src="https://raw.githubusercontent.com/adam-sroka/adam-sroka.github.io/master/img/linkedin-fill.svg"></a>
       <a href="mailto:as.csi@slmail.me" alt="Contact me"><img src="https://raw.githubusercontent.com/adam-sroka/adam-sroka.github.io/master/img/mail-fill.svg"></a>
