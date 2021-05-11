@@ -65,7 +65,7 @@ copyright = "&copy; 2021 Adam Sroka"
 
       [[params.links.list3.link]]
         text = "GitHub"
-        url = "http://github.com/adam-sroka/"
+        url = "https://github.com/adam-sroka/"
 
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
